@@ -5,6 +5,8 @@
 
 - 📝 I regularly write articles on [https://colin-cazabet.medium.com/](https://colin-cazabet.medium.com/)
 
+- 🦊 I regularly contribute to mozilla firefox devtools, check my profile [here](https://bugzilla.mozilla.org/user_profile?user_id=690481)
+
 - 💬 Ask me about **backend engineering**
 
 - 📫 How to reach me **colin.cazabet@gmail.com**
