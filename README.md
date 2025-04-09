@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
 <h3 align="center">A passionate software engineer from France</h3>
 
-- 🌱 I’m currently learning **AWS, distributed systems, Elixir**
-
 - 📝 I regularly write articles on [https://colin-cazabet.medium.com/](https://colin-cazabet.medium.com/)
 
 - 🦊 I regularly contribute to mozilla firefox devtools, check my profile [here](https://bugzilla.mozilla.org/user_profile?user_id=690481)
